@@ -39,5 +39,6 @@
 		"paths": {
 			"@*": ["./*"]
 		}
-	}
+	},
+	"exclude": ["node_modules", "vite.config.ts", "dist"]
 }
